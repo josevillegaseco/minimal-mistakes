@@ -16,6 +16,7 @@
     padding: 1em 1em 1em;
     max-width: 100%;
     display: -webkit-box;
+    display: -ms-flexbox;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
