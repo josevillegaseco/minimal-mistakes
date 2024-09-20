@@ -17,6 +17,7 @@
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
+    display: flex;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
