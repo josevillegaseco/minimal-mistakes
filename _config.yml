@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Jose Villegas"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Jose_Headshot_2023.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Postdoctoral Researcher at Ghent University"
   location         : "Ghent, Belgium"
   email            : "jose.villegas@ugent.be"
