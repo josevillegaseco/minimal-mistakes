@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Jose Villegas"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : &name "Jose Villegas"
+description              : &description "Postdoctoral Researcher at Ghent University"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -29,7 +29,9 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
@@ -105,19 +107,24 @@ social:
 
 # Analytics
 analytics:
-  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
-    anonymize_ip         : # true, false (default)
-
+    anonymize_ip         : # true, false (default)    
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jose Villegas"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Postdoctoral Researcher at Ghent University"
+  location         : "Ghent, Belgium"
+  googlescholar    : "https://scholar.google.com/citations?user=a8nni_AAAAAJ&hl=en"
+  email            : "jose.villegas@ugent.be"
+  researchgate     : #"https://www.researchgate.net/profile/Erik_Katovich"
+  github           : "josevillegaseco"
+  linkedin         : #"https://www.linkedin.com/in/erik-katovich-a20994160/"
+  twitter          : #"@ErikKatovich"
+  orcid            : "https://orcid.org/0000-0002-7593-1315
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
