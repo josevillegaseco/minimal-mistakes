@@ -58,6 +58,14 @@
 }
 
 .masthead__menu {
+  float: inline-start;
+  margin-inline: 0;
+  width: 100%;
+  clear: both;
+
+  .site-nav {
+    margin-inline-start: 0;
+  }
 
   ul {
     margin: 0;
@@ -73,7 +81,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    padding-inline-end: 2em;
     font-weight: 700;
   }
 }
