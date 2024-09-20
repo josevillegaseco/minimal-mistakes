@@ -57,6 +57,9 @@
 }
 
 .masthead__menu {
+  margin-inline: 0;
+  width: 100%;
+  clear: both;
   
   .site-nav {
     margin-inline-start: 0;
