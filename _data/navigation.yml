@@ -6,7 +6,7 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Research Statement"
     url: /year-archive/
-  #- title: "Teaching"
-  #   url: /collection-archive/
-  #- title: "Contact"
-  #   url: /sitemap/
+  - title: "Teaching"
+    url: /collection-archive/
+  - title: "Contact"
+    url: /sitemap/
