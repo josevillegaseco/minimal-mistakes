@@ -2,8 +2,8 @@
 main:
   - title: "Publications"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  #- title: "CV"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "CV"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
   #- title: "Research Statement"
   #   url: /year-archive/
   #- title: "Teaching"
