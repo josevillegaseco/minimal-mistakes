@@ -1,9 +1,7 @@
 ---
-permalink: /
-#title: "About me"
-#excerpt: "About me"
+layout: home
 author_profile: true
-
+permalink: /about/
 ---
 
 Welcome! I am a Postdoctoral Researcher in the [Department of Economics]("https://www.ugent.be/eb/economics/en") at Ghent University.<br/>
