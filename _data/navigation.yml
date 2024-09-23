@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "CV"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /files/Villegas_CV.pdf
   - title: "Research Statement"
     url: /year-archive/
   - title: "Teaching"
