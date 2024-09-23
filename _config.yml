@@ -313,7 +313,7 @@ compress_html:
 
 # Collections
 collections:
-  pets:
+  teaching:
     output: true
     permalink: /:collection/:path/
 
@@ -331,10 +331,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pets
+  # _teaching
   - scope:
       path: ""
-      type: pets
+      type: teaching
     values:
       layout: single
       author_profile: true
