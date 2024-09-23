@@ -1,7 +1,7 @@
 ---
-layout: home
-author_profile: true
+#layout: home
 permalink: /
+author_profile: true
 ---
 
 Welcome! I am a Postdoctoral Researcher in the [Department of Economics]("https://www.ugent.be/eb/economics/en") at Ghent University.<br/>
