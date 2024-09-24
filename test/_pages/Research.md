@@ -5,7 +5,7 @@ permalink: /Research/
 author_profile: false
 ---
 # **Job Market Paper**<br/> 
-Consumer Debt Moratoria <br/> (with Bulent Guler, Yasin Kürsat Önder, and Mauricio Villamizar-Villegas)  <br/>
+Consumer Debt Moratoria <br/> <font size=-1.2>(with [Bulent Guler](https://bguler.pages.iu.edu/), [Yasin Kürsat Önder](https://sites.google.com/view/yasin-kursat-onder), and [Mauricio Villamizar-Villegas](https://investiga.banrep.gov.co/en/profile/107))<font>  <br/>
 [Working Paper](/files/Villegas_JMP.pdf){:target="_blank"} &nbsp; [Slides](/files/Villegas_JMP_slides.pdf){:target="_blank"} <br/>
 
 We evaluate the effectiveness of consumer debt moratoria. Using administrative data from Colombia, our study compares households that narrowly qualified for the moratorium against those who narrowly missed eligibility. Our analysis indicates that the moratorium policy boosts consumption among financially strained households while reducing delinquency rates on mortgages and other loans. We then develop a life-cycle incomplete market model to examine the effects of the policy. Our model shows that the policy increases consumption, and welfare for all agents, and facilitates financial stability by attenuating the decline in house prices. Finally, we use our model to explore alternative policies.
