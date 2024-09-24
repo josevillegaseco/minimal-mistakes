@@ -1,5 +1,5 @@
 ---
-title: "Economic Statistics (Econ 230)"
+title: "Econometrics (Econ 231)"
 excerpt: "University of Rochester, 2021"
 collection: teaching
 ---
