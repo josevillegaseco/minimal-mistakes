@@ -4,4 +4,4 @@ excerpt: "University of Rochester, 2021"
 collection: teaching
 ---
 
-Teaching assistant during Spring 2021.
+Teaching assistant during Spring 2021. Undergraduate course.
