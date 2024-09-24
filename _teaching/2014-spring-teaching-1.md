@@ -1,6 +1,6 @@
 ---
 title: "Economic Statistics (Econ 230)"
-excerpt: "Summer 2019, 2020"
+excerpt: "University of Rochester, 2019, 2020"
 collection: teaching
 ---
 
