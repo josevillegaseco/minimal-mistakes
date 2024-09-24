@@ -1,12 +1,20 @@
 ---
-title: "Economic Statistics (Econ 230)"
+title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University of Rochester, Department of Economics"
-date: 2020-01-01
+venue: "University 1, Department"
+date: 2014-01-01
 location: "City, Country"
 ---
 
+This is a description of a teaching experience. You can use markdown like any other post.
 
-Instructor (In-person) during Summer 2019, Summer 2020 ([Syllabus](/files/Syllabus_ECO230.pdf){:target="_blank"}). Teaching assistant during Spring 2019, Spring 2020, Fall 2020. 
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
