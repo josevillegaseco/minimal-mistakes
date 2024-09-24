@@ -13,7 +13,6 @@ We evaluate the effectiveness of consumer debt moratoria. Using administrative d
 <br/><br/>
 
 # **Working Papers**<br/> 
-
 Debt Moratoria and Macroeconomics <br/>  
 with [Yasin Kürsat Önder](https://sites.google.com/view/yasin-kursat-onder), and [Mauricio Villamizar](https://investiga.banrep.gov.co/en/profile/107) <br/> <br/>  
 [Working Paper](/files/Debt_Moratorium.pdf){:target="_blank"} &nbsp; [Slides](/files/Debt_Moratorium_slides.pdf){:target="_blank"} <br/>
