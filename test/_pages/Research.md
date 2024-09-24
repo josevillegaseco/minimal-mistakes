@@ -6,7 +6,7 @@ author_profile: false
 ---
 # **Job Market Paper**<br/> 
 Consumer Debt Moratoria <br/> 
-with [Bulent Guler](https://bguler.pages.iu.edu/), [Yasin Kürsat Önder](https://sites.google.com/view/yasin-kursat-onder), and [Mauricio Villamizar](https://investiga.banrep.gov.co/en/profile/107) <br/>
+with [Bulent Guler](https://bguler.pages.iu.edu/), [Yasin Kürsat Önder](https://sites.google.com/view/yasin-kursat-onder), and [Mauricio Villamizar](https://investiga.banrep.gov.co/en/profile/107) <br/><br/>  
 [Working Paper](/files/Villegas_JMP.pdf){:target="_blank"} &nbsp; [Slides](/files/Villegas_JMP_slides.pdf){:target="_blank"} <br/>
 
 We evaluate the effectiveness of consumer debt moratoria. Using administrative data from Colombia, our study compares households that narrowly qualified for the moratorium against those who narrowly missed eligibility. Our analysis indicates that the moratorium policy boosts consumption among financially strained households while reducing delinquency rates on mortgages and other loans. We then develop a life-cycle incomplete market model to examine the effects of the policy. Our model shows that the policy increases consumption, and welfare for all agents, and facilitates financial stability by attenuating the decline in house prices. Finally, we use our model to explore alternative policies.
@@ -16,7 +16,7 @@ We evaluate the effectiveness of consumer debt moratoria. Using administrative d
 # **Working Papers**<br/> 
 
 Debt Moratoria and Macroeconomics <br/>  
-with [Yasin Kürsat Önder](https://sites.google.com/view/yasin-kursat-onder), and [Mauricio Villamizar](https://investiga.banrep.gov.co/en/profile/107) <br/> 
+with [Yasin Kürsat Önder](https://sites.google.com/view/yasin-kursat-onder), and [Mauricio Villamizar](https://investiga.banrep.gov.co/en/profile/107) <br/> <br/>  
 [Working Paper](/files/Debt_Moratorium.pdf){:target="_blank"} &nbsp; [Slides](/files/Debt_Moratorium_slides.pdf){:target="_blank"} <br/>
 
 <img align="left" width="400" height="300" src="/files/debtmoratoria_loanout.png"> <font size="-1.2">Our study analyzes the impact of debt moratorium policies, possibly the oldest approach to addressing repayment problems. Using Colombian administrative data, we compare two groups of firms: those narrowly meeting moratorium criteria and those missing it. Our findings show that stressed firms accessing moratoria enjoy favorable loan conditions on subsequent borrowing: higher loan amounts, a higher probability of obtaining a new loan, and lower interest rates, which in turn drive increased investment and employment. We propose a quantitative general equilibrium model to assess short- and long-term implications, and find reduced liquidity concerns alongside heightened default risk. Importantly, our research underscores welfare benefits of interest forgiveness during debt suspension.</font>
@@ -24,7 +24,7 @@ with [Yasin Kürsat Önder](https://sites.google.com/view/yasin-kursat-onder), a
 
 
 <br/>
-Employment Fluctuations, Real Estate Prices and Property Taxes  <br/>
+Employment Fluctuations, Real Estate Prices and Property Taxes  <br/><br/>  
 [Working Paper](/files/property_taxes_wp.pdf){:target="_blank"} &nbsp; [Online Appendix](/files/property_taxes_appendix.pdf){:target="_blank"} &nbsp; [Slides](/files/property_taxes_slides.pdf){:target="_blank"} <br/>
 
 <img align="left" width="300" height="200" src="/files/dynamic_E.png"> <font size="-1.2">This paper studies the role of real estate prices on employment fluctuations. We focus on the relative importance of the housing wealth and firm collateral channel on employment. We use empirical evidence from Italian municipality data and feature a quantitative model with financial frictions to quantify each channel. First, we exploit municipal-level variation in property tax changes to estimate its effect on labor, consumption, and real estate prices during Italy’s 2012 property tax reform. Then, we use the estimates to calibrate a quantitative model that includes houses and commercial real estate charged with different property tax rates. We find that both channels explain more than 50% of the employment decline due to higher property taxes. However, the firm collateral channel reduces employment by 20% more than the housing wealth channel.</font>
