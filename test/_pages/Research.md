@@ -6,7 +6,7 @@ author_profile: false
 ---
 # **Job Market Paper**<br/>
 Consumer Debt Moratoria <br/>
-with [Bulent Guler](https://bguler.pages.iu.edu/), [Yasin Kürsat Önder](https://sites.google.com/view/yasin-kursat-onder), and [Mauricio Villamizar](https://investiga.banrep.gov.co/en/profile/107) <br/>
+with [Bulent Guler](https://bguler.pages.iu.edu/), [Yasin Kürsat Önder](https://sites.google.com/view/yasin-kursat-onder), and [Mauricio Villamizar](https://investiga.banrep.gov.co/en/profile/107) <br/> 
 [Working Paper](/files/Villegas_JMP.pdf){:target="_blank"} &nbsp; [Slides](/files/Villegas_JMP_slides.pdf){:target="_blank"} <br/>
 
 We evaluate the effectiveness of consumer debt moratoria. Using administrative data from Colombia, our study compares households that narrowly qualified for the moratorium against those who narrowly missed eligibility. Our analysis indicates that the moratorium policy boosts consumption among financially strained households while reducing delinquency rates on mortgages and other loans. We then develop a life-cycle incomplete market model to examine the effects of the policy. Our model shows that the policy increases consumption, and welfare for all agents, and facilitates financial stability by attenuating the decline in house prices. Finally, we use our model to explore alternative policies.
@@ -14,12 +14,12 @@ We evaluate the effectiveness of consumer debt moratoria. Using administrative d
 
 # **Working Papers**<br/>
 Debt Moratoria and Macroeconomics <br/>
-with [Yasin Kürsat Önder](https://sites.google.com/view/yasin-kursat-onder), and [Mauricio Villamizar](https://investiga.banrep.gov.co/en/profile/107) <br/> <br/>
+with [Yasin Kürsat Önder](https://sites.google.com/view/yasin-kursat-onder), and [Mauricio Villamizar](https://investiga.banrep.gov.co/en/profile/107) <br/> 
 [Working Paper](/files/Debt_Moratorium.pdf){:target="_blank"} &nbsp; [Slides](/files/Debt_Moratorium_slides.pdf){:target="_blank"} <br/>
 
 <img align="center" width="400" height="300" src="/files/debtmoratoria_loanout.png"><br/>
 
-<font size="-1.2">Our study analyzes the impact of debt moratorium policies, possibly the oldest approach to addressing repayment problems. Using Colombian administrative data, we compare two groups of firms: those narrowly meeting moratorium criteria and those missing it. Our findings show that stressed firms accessing moratoria enjoy favorable loan conditions on subsequent borrowing: higher loan amounts, a higher probability of obtaining a new loan, and lower interest rates, which in turn drive increased investment and employment. We propose a quantitative general equilibrium model to assess short- and long-term implications, and find reduced liquidity concerns alongside heightened default risk. Importantly, our research underscores welfare benefits of interest forgiveness during debt suspension.</font>
+<font size="-1.2"> <style> Our study analyzes the impact of debt moratorium policies, possibly the oldest approach to addressing repayment problems. Using Colombian administrative data, we compare two groups of firms: those narrowly meeting moratorium criteria and those missing it. Our findings show that stressed firms accessing moratoria enjoy favorable loan conditions on subsequent borrowing: higher loan amounts, a higher probability of obtaining a new loan, and lower interest rates, which in turn drive increased investment and employment. We propose a quantitative general equilibrium model to assess short- and long-term implications, and find reduced liquidity concerns alongside heightened default risk. Importantly, our research underscores welfare benefits of interest forgiveness during debt suspension.{text-align: justify}</style></font>
 <br/><br/>
 
 
