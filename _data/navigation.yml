@@ -2,11 +2,15 @@
 main:
   - title: "Publications"
     url: /Research/
+    
   - title: "CV"
     url: /files/Villegas_CV.pdf
+    
   - title: "Research Statement"
     url: /files/research_statement_jose.pdf
+    
   - title: "Teaching"
     url: /teaching/
+    
   - title: "Contact"
     url: /contact/
