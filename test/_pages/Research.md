@@ -12,7 +12,6 @@ with [Bulent Guler](https://bguler.pages.iu.edu/), [Yasin Kürsat Önder](https:
 We evaluate the effectiveness of consumer debt moratoria. Using administrative data from Colombia, our study compares households that narrowly qualified for the moratorium against those who narrowly missed eligibility. Our analysis indicates that the moratorium policy boosts consumption among financially strained households while reducing delinquency rates on mortgages and other loans. We then develop a life-cycle incomplete market model to examine the effects of the policy. Our model shows that the policy increases consumption, and welfare for all agents, and facilitates financial stability by attenuating the decline in house prices. Finally, we use our model to explore alternative policies.
 <br/><br/>
 
-<br/>
 # **Working Papers**<br/> 
 
 Debt Moratoria and Macroeconomics <br/>  
@@ -36,7 +35,7 @@ Investment, Capital Structure and Default Risk <br/>
 [Working Paper](/files/Investment_defaultrisk_wp.pdf){:target="_blank"}<br/>
 
 <font size="-1.2">This paper studies how a firm’s capital structure shapes the investment response during a sovereign debt crisis. To estimate the heterogeneous effect of capital structure on investment response to default risk, we use balance-sheet data for Italian firms during 2007-2015. We find that changes in default risk produce a negative response to investment, which changes with the capital structure. Specifically, the negative response of investment is amplified by at least 55% with higher leverage. However, investment sensitivity could be heightened or attenuated by about 15% with higher maturity, depending on whether firms are highly indebted. We build a partial equilibrium model of investment, short-term and long-term debt, and limited commitment to understanding the mechanisms that explain our empirical results. Our model shows that the effect of debt overhang, rollover risk and its interaction can qualitatively capture the empirical results obtained with Italian data for firms.</font>
-<br/><br/><br/>
+<br/><br/>
 
 # **Work in Progress**<br/>
 Labor Market Frictions, Employment Costs, and Sovereign Default Risk <br/>
