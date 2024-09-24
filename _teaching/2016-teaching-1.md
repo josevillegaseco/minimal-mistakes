@@ -4,4 +4,4 @@ excerpt: "Universidad Alberto Hurtado, 2016"
 collection: teaching
 ---
 
-Instructor Spring 2016 ([Syllabus](/files/UAH_econometrics.pdf){:target="_blank"}, spanish). Undergraduate course.  
+Instructor Spring 2016 ([Syllabus](/files/UAH_econometrics.pdf){:target="_blank"} in spanish). Undergraduate course.  
