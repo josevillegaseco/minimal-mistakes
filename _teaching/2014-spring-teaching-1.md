@@ -1,6 +1,6 @@
 ---
 title: "Economic Statistics (Econ 230)"
-date: 2020-01-01
+excerpt: "Summer 2019, 2020"
 collection: teaching
 ---
 
