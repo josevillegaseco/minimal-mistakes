@@ -6,14 +6,10 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-Email: jose.villegas.eco@gmail.com
-<br/>
-       jose.villegas@ugent.be
-<br/>                  
-Ghent University<br/>
-5 Sint-Pietersplein <br/>
+Email:  
+- jose.villegas.eco@gmail.com  
+- jose.villegas@ugent.be  
+
+Ghent University  
+5 Sint-Pietersplein  
 9000 Ghent, Belgium
-
-
-         
-
