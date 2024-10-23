@@ -7,8 +7,7 @@ author_profile: true
 ---
 
 Email: jose.villegas.eco@gmail.com  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jose.villegas@ugent.be
-<br/>                  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jose.villegas@ugent.be<br/>                  
 Ghent University<br/>
 5 Sint-Pietersplein <br/>
 9000 Ghent, Belgium
