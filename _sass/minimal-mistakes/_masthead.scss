@@ -20,7 +20,7 @@
     flex-direction: row;
     align-items: center;      /* vertical centering */
     justify-content: flex-start; /* keep items closer together */
-    gap: 0.5rem;              /* tighter horizontal space between title and menu */
+    gap: 1rem;              /* tighter horizontal space between title and menu */
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
