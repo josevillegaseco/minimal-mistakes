@@ -23,3 +23,13 @@ search: false
   font-weight: 600;
   margin-right: 0.25rem;
 }
+
+/* Reduce vertical space between site title and navigation menu */
+.masthead__inner-wrap {
+  padding-top: 0.25rem;   /* default is around 1rem */
+  padding-bottom: 0.25rem;
+}
+
+.site-title {
+  margin-bottom: 0;       /* remove extra gap under your name */
+}
