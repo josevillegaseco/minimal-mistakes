@@ -23,23 +23,3 @@ search: false
   font-weight: 600;
   margin-right: 0.25rem;
 }
-
-/* Put site title and nav menu on the same line, vertically centered */
-.masthead__inner-wrap {
-  display: flex !important;
-  flex-direction: row !important;   /* title and menu side-by-side */
-  align-items: center !important;   /* vertical alignment */
-  justify-content: space-between;   /* title left, nav right */
-  padding-top: 0.25rem !important;
-  padding-bottom: 0.25rem !important;
-  gap: 1rem; /* space between title and menu; tweak as needed */
-}
-
-.site-title {
-  margin: 0 !important;
-  line-height: 1.2 !important;
-}
-
-.greedy-nav {
-  margin: 0 !important;
-}
