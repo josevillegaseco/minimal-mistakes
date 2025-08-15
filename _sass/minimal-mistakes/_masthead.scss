@@ -14,14 +14,11 @@
   &__inner-wrap {
     @include clearfix;
     margin-inline: auto;        
-    padding: 1em;
+    padding: 0.25em 1em; 
     max-width: 100%;
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: justify;
-    -ms-flex-pack: justify;
     justify-content: space-between;
+    align-items: center;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
