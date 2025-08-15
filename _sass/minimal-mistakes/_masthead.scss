@@ -14,12 +14,13 @@
   &__inner-wrap {
     @include clearfix;
     margin-inline: auto;
-    padding: 0.25em 1em;  /* reduced vertical padding */
+    padding: 0.5em 1em; /* small vertical padding */
     max-width: 100%;
     display: flex;
-    flex-direction: row;      /* force row layout */
-    justify-content: space-between;
+    flex-direction: row;
     align-items: center;      /* vertical centering */
+    justify-content: flex-start; /* keep items closer together */
+    gap: 0.5rem;              /* tighter horizontal space between title and menu */
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -44,8 +45,8 @@
   display: flex;
   align-items: center;
   font-weight: bold;
-  margin: 0;                 /* remove default bottom margin */
   line-height: 1.2;
+  margin-right: 0.5rem; /* small gap before menu */
 }
 
 .site-subtitle {
@@ -54,22 +55,21 @@
 }
 
 .masthead__menu {
-  margin: 0;                 /* remove top/bottom margin */
+  margin-left: 0; /* eliminate default left margin */
   width: auto;
-  clear: none;
 
   .site-nav {
     margin-inline-start: 0;
-
-    @include breakpoint($small) {
-      float: none;
-    }
+    float: none;
   }
 
   ul {
     margin: 0;
     padding: 0;
     list-style-type: none;
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 1rem; /* space between menu items */
   }
 }
 
@@ -81,5 +81,23 @@
   &--lg {
     padding-inline-end: 2em;
     font-weight: 700;
+  }
+}
+
+/* Disable hamburger menu entirely */
+.greedy-nav__toggle {
+  display: none !important;
+}
+
+/* Always show full menu */
+.greedy-nav__items {
+  display: flex !important;
+  flex-wrap: nowrap;
+}
+
+/* Optional: shrink menu font slightly on narrow screens to avoid wrapping */
+@media (max-width: 600px) {
+  .masthead__menu ul li a {
+    font-size: 0.9rem;
   }
 }
