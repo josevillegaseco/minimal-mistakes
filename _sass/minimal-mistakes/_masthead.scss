@@ -100,9 +100,10 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  padding: 0 0.01rem; /* reduced from default ~0.6-1rem */
   
   &--lg {
-    padding-inline-end: 0.3rem; /* was 2em, now tighter */
+    padding-inline-end: 0.01rem; /* was 2em, now tighter */
     font-weight: 700;
   }
 }
