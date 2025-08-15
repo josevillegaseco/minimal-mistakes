@@ -23,3 +23,12 @@ search: false
   font-weight: 600;
   margin-right: 0.25rem;
 }
+
+/* Tighter horizontal spacing between nav items */
+.masthead__menu-item,
+.masthead__menu-item a {
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
+  margin-left: 0;
+  margin-right: 0;
+}
