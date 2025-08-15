@@ -8,10 +8,18 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.page__footer .site-disclaimer {
-  font-size: 0.85rem;
+/* Make all footer text same size and style */
+.page__footer,
+.page__footer p,
+.page__footer div,
+.page__footer li {
+  font-size: 0.85rem;  /* adjust this value as needed */
   line-height: 1.4;
-  opacity: 0.85;
-  margin: 0.25rem 0;
-  text-align: left;
+  opacity: 0.9;
+}
+
+/* Keep disclaimer consistent but still bold the label */
+.page__footer .site-disclaimer strong {
+  font-weight: 600;
+  margin-right: 0.25rem;
 }
