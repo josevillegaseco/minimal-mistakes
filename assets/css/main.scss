@@ -24,18 +24,22 @@ search: false
   margin-right: 0.25rem;
 }
 
-/* Reduce vertical gap between site title and navigation menu */
+/* Put site title and nav menu on the same line, vertically centered */
 .masthead__inner-wrap {
+  display: flex !important;
+  flex-direction: row !important;   /* title and menu side-by-side */
+  align-items: center !important;   /* vertical alignment */
+  justify-content: space-between;   /* title left, nav right */
   padding-top: 0.25rem !important;
   padding-bottom: 0.25rem !important;
+  gap: 1rem; /* space between title and menu; tweak as needed */
 }
 
 .site-title {
-  margin-bottom: 0 !important;
+  margin: 0 !important;
   line-height: 1.2 !important;
 }
 
-/* Reduce nav's top margin */
 .greedy-nav {
-  margin-top: 0.1rem !important;
+  margin: 0 !important;
 }
