@@ -14,7 +14,7 @@
   &__inner-wrap {
     @include clearfix;
     margin-inline: auto;
-    padding: 0.5em 1em; /* small vertical padding */
+    padding: 0.5em 1em; /* reduced vertical padding */
     max-width: 100%;
     font-family: $sans-serif-narrow;
 
@@ -43,25 +43,28 @@
   line-height: 1.2;
 }
 
-/* Desktop layout: more spacing between name and menu */
+/* Desktop layout: more space between name and menu */
 @media (min-width: 768px) {
   .masthead__inner-wrap {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
-    gap: 3rem; /* much more horizontal space */
   }
 
   .site-title {
-    margin-right: 1.5rem;
+    margin-right: 4rem !important; /* fixed, visible gap */
+  }
+
+  .greedy-nav {
+    flex-grow: 1;
   }
 }
 
-/* Mobile layout: restore hamburger menu behavior */
+/* Mobile layout: stacked with hamburger menu */
 @media (max-width: 767px) {
   .masthead__inner-wrap {
-    display: block; /* stacked layout */
+    display: block;
   }
 
   .site-title {
@@ -104,7 +107,7 @@
   }
 }
 
-/* Keep hamburger menu enabled for mobile */
+/* Ensure hamburger menu toggle is visible on mobile */
 .greedy-nav__toggle {
   display: block !important;
 }
