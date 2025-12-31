@@ -32,17 +32,3 @@ search: false
   margin-left: 0;
   margin-right: 0;
 }
-
-/* Reduce spacing between course entries on Teaching collection pages */
-.layout--teaching .archive__item,
-.layout--collection .archive__item {
-  margin-bottom: 0.25rem !important;  /* tighten vertical gap between items */
-  padding-bottom: 0.1rem !important;
-  border: none !important;           /* optional: removes divider lines if any */
-}
-
-.layout--teaching .archive__item-title,
-.layout--collection .archive__item-title {
-  margin-bottom: 0.15rem !important;
-  line-height: 1.35;
-}
