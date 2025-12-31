@@ -32,3 +32,10 @@ search: false
   margin-left: 0;
   margin-right: 0;
 }
+
+/* Tighten spacing ONLY on the Teaching page */
+.page__teaching .page__content ul li,
+.page__teaching .page__content p {
+  margin-bottom: 0.25rem; /* shrink space between courses */
+  line-height: 1.35;
+}
